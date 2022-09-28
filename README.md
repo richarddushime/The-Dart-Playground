@@ -10,6 +10,12 @@
 
 ![image](https://user-images.githubusercontent.com/75615789/192692200-a4155b0d-bdc3-4a05-9747-ea7d2d6f665b.png)
 
+<h2>
+  <p align="center" ><b>
+Fellow Developers, a warm welcome to the dart side of this repository!
+     </p></b>
+</h2>
+
 ## What is Hacktoberfest?
 Hacktoberfest is a month long celebration of open source software by DigitalOcean encouraging anyone to join the community.
 
