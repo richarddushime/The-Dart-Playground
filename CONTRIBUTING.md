@@ -1,7 +1,7 @@
-#How to contribute 
+# How to contribute 
 - Sign up via the hacktoberfest account as a contributor
 
-#Instructions
+# Instructions
 - Fork this repository
 - Clone the forked repository
 - Create a new branch
