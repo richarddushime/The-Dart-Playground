@@ -1,5 +1,5 @@
 # How to contribute 
-- Sign up via the hacktoberfest account as a contributor
+- Sign up via the hacktoberfest account as a contributor at https://hacktoberfest.com/
 
 # Instructions
 - Fork this repository
