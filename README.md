@@ -21,7 +21,7 @@ This repository is beginner friendly with designs that will be available for imp
 
 The goal of this project is to help anyone (of any level) contribute to an open source project during the hacktoberfest.
 
-### Purpose of this project is to implement a playground for beginner developers to practice with dart and solve data structures.
+### Purpose of this project is to implement a playground for developers to practice with dart and solve data structures.
 
 Therefore feel free to contribute if:
 1. you are a beginner, mid or senior level Flutter Developer
