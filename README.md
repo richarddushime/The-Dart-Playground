@@ -1,16 +1,32 @@
-# playground
+<h1>
+  <p align="center" ><b>
+    Hacktoberfest'2022
+    <br/>
+    <br/>
+    Flutter Mobile Application
+  </p></b>
+</h1>
 
-A new Flutter project.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/75615789/192692200-a4155b0d-bdc3-4a05-9747-ea7d2d6f665b.png)
 
-This project is a starting point for a Flutter application.
+## What is Hacktoberfest?
+Hacktoberfest is a month long celebration of open source software by DigitalOcean encouraging anyone to join the community.
 
-A few resources to get you started if this is your first Flutter project:
+### What is required in Hacktoberfest?
+- Get atleast 4 PRs which are merged
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## About this repository
+This repository is beginner friendly with designs that will be available for implementation when we will be creating issues - if designs are not available and required then we will create an issue for that as well. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The goal of this project is to help anyone (of any level) contribute to an open source project during the hacktoberfest.
+
+### Purpose of this project is to implement a playground for beginner developers to practice with dart and solve data structures.
+
+Therefore feel free to contribute if:
+1. you are a beginner, mid or senior level Flutter Developer
+2. you are a designer
+3. you will be documentating the code
+4. you will be working on the server side
+
+If you would like to make a pull request, feel free to take a look at the [CONTRIBUTING.md](/CONTRIBUTING.md)
