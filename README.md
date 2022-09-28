@@ -63,12 +63,12 @@ Therefore feel free to contribute if:
 1. Open Terminal and Clone the Repo
 
 ```bash
-  git clone https://github.com/Subhradeep10/DevAcademy.git
+  git clone https://github.com/username/reponame
 ```
  2. Cd Over 
  
 ```bash
-   cd DevAcademy
+   cd reponame
 ```
  3. Run Pub
 ```
