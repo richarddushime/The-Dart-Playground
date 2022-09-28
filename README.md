@@ -14,7 +14,7 @@
 Hacktoberfest is a month long celebration of open source software by DigitalOcean encouraging anyone to join the community.
 
 ### What is required in Hacktoberfest?
-- Get atleast 4 PRs which are merged
+- Get atleast 4 PRs which are merged and NOT tagged as spam (or you will be taken out of the competition)
 
 ## About this repository
 This repository is beginner friendly with designs that will be available for implementation when we will be creating issues - if designs are not available and required then we will create an issue for that as well. 
