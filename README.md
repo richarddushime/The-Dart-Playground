@@ -63,12 +63,12 @@ Therefore feel free to contribute if:
 1. Open Terminal and Clone the Repo
 
 ```bash
-  git clone https://github.com/username/reponame
+  git clone https://github.com/global-hacktoberfest22/The-Dart-Playground.git
 ```
  2. Cd Over 
  
 ```bash
-   cd reponame
+   cd The-Dart-Playground
 ```
  3. Run Pub
 ```
